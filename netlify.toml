@@ -1,0 +1,2 @@
+[build.environment]
+BUNDLE_GEMS__COMMIT__BUNDLER = "2.6.3"
